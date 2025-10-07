@@ -1,2 +1,3 @@
-# loan-risk-analysis
-Loan prediction analysis using SQL and Tableau - Portfolio Project
+loan-risk-analysis/
+├── README.md  
+├── 
